@@ -1,0 +1,28 @@
+.footer-content{
+  width: 100%;
+  height: 80px;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  background-color: #0F0F0F;
+}
+
+.list-inline{
+  margin-top: -20px;
+}
+
+.copyrights{
+  font-size: 15px;
+  color: #ddd;
+}
+
+.list-inline-item a{
+  text-decoration: none;
+  font-size: 20px;
+  color: #fff;
+}
+
+.i-react{
+  margin-top: 12px;
+  margin-bottom: 15px;
+}

@@ -1,0 +1,43 @@
+.signup-content{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: auto;
+  max-width: 600px;
+}
+
+.h1-signup{
+  font-size: 25px;
+  text-align: center;
+  margin: 30px 0;
+}
+
+.banner-signup{
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.btn-signup {
+  background: #0f0f0f;
+  color: #fff;
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+}
+
+.btn-signup:hover {
+  background: #050505;
+}
+
+.register-here{
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  text-align: center;
+}
+
+.register-here a{
+  text-decoration: none;
+  font-weight: 500;
+  color: #000;
+}

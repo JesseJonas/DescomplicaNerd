@@ -1,0 +1,47 @@
+.login-content{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: auto;
+  max-width: 600px;
+}
+
+.login-content h1{
+  font-size: 25px;
+  text-align: center;
+  margin: 30px 0;
+}
+
+.login-content img{
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.btn-login {
+  background: #0F0F0F;
+  color: #fff;
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+  transition: ease-in-out 0.2s;
+}
+
+.btn-login:hover {
+  background: #050505;
+}
+
+.register-here{
+  margin-top: 15px;
+  text-align: center;
+}
+
+.register-here a{
+  text-decoration: none;
+  font-weight: 500;
+  color: #000;
+}
+
+.msg-type{
+  margin-top: -5px;
+  text-align: center;
+}

@@ -1,0 +1,13 @@
+.navbar{
+  background: #0F0F0F;
+  /* height: 80px; */
+}
+
+.logo-white{
+  width: 60px;
+  max-width: 60px;
+}
+
+.login-item a{
+  transition: ease-in-out 0.2s;
+}
